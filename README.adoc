@@ -1,7 +1,3 @@
-English | [简体中文](./README.zh-CN.md)
-
------
-
 = FTGO example application
 
 This is the example code for my book https://www.manning.com/books/microservice-patterns[Microservice patterns].
